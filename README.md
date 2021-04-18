@@ -1,9 +1,10 @@
-### Hi there 👋
-Header
+[![Header](https://github.com/Danis2019/Danis2019/blob/main/assets/danis%20studio.jpg)]()
 
-About me 
+## I'm beginner data scientist
 
-Languages and tools
+### Languages and tools
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-FF7B0A?style=for-the-badge&logo=jupyter&logoColor=FFEDFB)
+![Python](https://img.shields.io/badge/-Python-2DE03B?style=for-the-badge&logo=python&logoColor=FFEDFB)
 
 Follow Me
 <!--
