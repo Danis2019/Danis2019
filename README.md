@@ -1,4 +1,4 @@
-[![Header](https://github.com/Danis2019/Danis2019/blob/main/assets/danis%20studio.jpg)](https://vk.com/id223784802)
+[![Header](https://github.com/Danis2019/Danis2019/blob/main/assets/danis%20studio.jpg)](@danisbatyrshin)
 
 ## I'm beginner data scientist
 
@@ -9,6 +9,7 @@
 
 ### Follow Me
 [![VK](https://img.shields.io/badge/-vkontakte-2DBBE0?style=for-the-badge&logo=vk&logoColor=FFEDFB)](https://vk.com/id223784802)
+[![VK](https://img.shields.io/badge/-telegram-1552B5?style=for-the-badge&logo=telegram&logoColor=FFEDFB)](@danisbatyrshin)
 <!--
 **Danis2019/Danis2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
