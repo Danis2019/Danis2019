@@ -11,7 +11,9 @@
 [![VK](https://img.shields.io/badge/-vkontakte-2DBBE0?style=for-the-badge&logo=vk&logoColor=FFEDFB)](https://vk.com/id223784802)
 [![telegram](https://img.shields.io/badge/-telegram-1552B5?style=for-the-badge&logo=telegram&logoColor=FFEDFB)](https://t.me/danisbatyrshin)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danis2019&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Danis2019 GitHub stats](https://github-readme-stats.vercel.app/api?username=Danis2019&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danis2019&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Danis2019/Danis2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
