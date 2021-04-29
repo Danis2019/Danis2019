@@ -1,12 +1,10 @@
-[![Header](https://github.com/Danis2019/Danis2019/blob/main/assets/danis%20studio.jpg)](https://t.me/danisbatyrshin)
-
 ## I'm beginner data scientist
 
 ### Languages and tools
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-FF7B0A?style=for-the-badge&logo=jupyter&logoColor=FFEDFB)
 ![Python](https://img.shields.io/badge/-Python-2DE03B?style=for-the-badge&logo=python&logoColor=FFEDFB)
 ![scikit-learn](https://img.shields.io/badge/-sklearn-2DBBE0?style=for-the-badge&logo=scikit-learn&logoColor=FFEDFB)
-
+![scikit-learn](https://img.shields.io/badge/-sql-002DFF?style=for-the-badge&logo=sql&logoColor=FFEDFB)
 ### Follow Me
 [![VK](https://img.shields.io/badge/-vkontakte-2DBBE0?style=for-the-badge&logo=vk&logoColor=FFEDFB)](https://vk.com/id223784802)
 [![telegram](https://img.shields.io/badge/-telegram-1552B5?style=for-the-badge&logo=telegram&logoColor=FFEDFB)](https://t.me/danisbatyrshin)
