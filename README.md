@@ -9,6 +9,8 @@
 ### Follow Me
 [![VK](https://img.shields.io/badge/-vkontakte-2DBBE0?style=for-the-badge&logo=vk&logoColor=FFEDFB)](https://vk.com/id223784802)
 [![telegram](https://img.shields.io/badge/-telegram-1552B5?style=for-the-badge&logo=telegram&logoColor=FFEDFB)](https://t.me/danisbatyrshin)
+### Also
+[![kaggle](https://img.shields.io/badge/-kaggle-6A95BA?style=for-the-badge&logo=kaggle&logoColor=FFEDFB)](https://www.kaggle.com/batyrshin)
 
 [![Danis2019 GitHub stats](https://github-readme-stats.vercel.app/api?username=Danis2019&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
