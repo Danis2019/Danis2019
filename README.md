@@ -11,6 +11,8 @@
 [![telegram](https://img.shields.io/badge/-telegram-1552B5?style=for-the-badge&logo=telegram&logoColor=FFEDFB)](https://t.me/danisbatyrshin)
 ### Also
 [![kaggle](https://img.shields.io/badge/-kaggle-6A95BA?style=for-the-badge&logo=kaggle&logoColor=FFEDFB)](https://www.kaggle.com/batyrshin)
+### Projects
+[![FaceRecognition](https://img.shields.io/badge/-face_recognition-9232B5?style=for-the-badge&logo=face_recognition&logoColor=FFEDFB)](https://github.com/Danis2019/Hakaton_Kai_2021) Web application with a neural network.
 
 [![Danis2019 GitHub stats](https://github-readme-stats.vercel.app/api?username=Danis2019&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
