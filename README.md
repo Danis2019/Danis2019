@@ -14,6 +14,8 @@
 ### Projects
 [![FaceRecognition](https://img.shields.io/badge/-face_recognition-9232B5?style=for-the-badge&logo=face_recognition&logoColor=FFEDFB)](https://github.com/Danis2019/Hakaton_Kai_2021) Web application with a neural network.
 
+[![Dota](https://img.shields.io/badge/-dota-bb1616?style=for-the-badge&logo=dota&logoColor=FFEDFB)](https://github.com/Danis2019/Prediction_of_the_winner_in_an_online_game) Prediction of the winner in an online game.
+
 [![Danis2019 GitHub stats](https://github-readme-stats.vercel.app/api?username=Danis2019&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danis2019&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
