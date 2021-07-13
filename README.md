@@ -14,7 +14,11 @@
 ### Projects
 [![FaceRecognition](https://img.shields.io/badge/-face_recognition-9232B5?style=for-the-badge&logo=face_recognition&logoColor=FFEDFB)](https://github.com/Danis2019/Hakaton_Kai_2021) Web application with a neural network.
 
-[![Dota](https://img.shields.io/badge/-dota-bb1616?style=for-the-badge&logo=dota&logoColor=FFEDFB)](https://github.com/Danis2019/Prediction_of_the_winner_in_an_online_game) Prediction of the winner in an online game.
+[![Dota](https://img.shields.io/badge/-dota-bb1616?style=for-the-badge&logo=Dota&logoColor=FFEDFB)](https://github.com/Danis2019/Prediction_of_the_winner_in_an_online_game) Prediction of the winner in an online game.
+
+[![Trading_robots](https://img.shields.io/badge/-Trading_robots-f7f53b?style=for-the-badge&logo=Trading_robots&logoColor=FFEDFB)](https://github.com/Danis2019/Light_Project) Trading robots on Python
+
+[![Ren'Py](https://img.shields.io/badge/-Ren'Py-FF00EF?style=for-the-badge&logo=Ren'Py&logoColor=000000)](https://github.com/Danis2019/Light_Project) My first big project. PC game on Ren'Py engine.
 
 [![Danis2019 GitHub stats](https://github-readme-stats.vercel.app/api?username=Danis2019&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
