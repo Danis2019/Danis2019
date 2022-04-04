@@ -18,6 +18,8 @@
 
 [![Trading_robots](https://img.shields.io/badge/-Trading_robots-f7f53b?style=for-the-badge&logo=Trading_robots&logoColor=FFEDFB)](https://github.com/Danis2019/Light_Project) Trading robots on Python
 
+[![Telegram_bot](https://img.shields.io/badge/-Telegram_bot-f7f53b?style=for-the-badge&logo=telegram&logoColor=FFEDFB)](https://github.com/Danis2019/Telegram_bot) Trading robots on Python
+
 [![Ren'Py](https://img.shields.io/badge/-Ren'Py-FF00EF?style=for-the-badge&logo=Ren'Py&logoColor=000000)](https://github.com/Danis2019/MyNovel) My first big project. PC game on Ren'Py engine.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danis2019&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
