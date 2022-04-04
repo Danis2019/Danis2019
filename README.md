@@ -18,7 +18,7 @@
 
 [![Trading_robots](https://img.shields.io/badge/-Trading_robots-f7f53b?style=for-the-badge&logo=Trading_robots&logoColor=FFEDFB)](https://github.com/Danis2019/Light_Project) Trading robots on Python
 
-[![Telegram_bot](https://img.shields.io/badge/-Telegram_bot-f7f53b?style=for-the-badge&logo=telegram&logoColor=FFEDFB)](https://github.com/Danis2019/Telegram_bot) Telegram bots and parsing
+[![Telegram_bot](https://img.shields.io/badge/-Telegram_bot-1552B5?style=for-the-badge&logo=telegram&logoColor=FFEDFB)](https://github.com/Danis2019/Telegram_bot) Telegram bots and parsing
 
 [![Ren'Py](https://img.shields.io/badge/-Ren'Py-FF00EF?style=for-the-badge&logo=Ren'Py&logoColor=000000)](https://github.com/Danis2019/MyNovel) My first big project. PC game on Ren'Py engine.
 
