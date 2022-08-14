@@ -1,5 +1,5 @@
 ## I'm beginner data scientist
-## 3 course KAI IKTZI
+## 4 course KAI IKTZI
 
 ### Languages and tools
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-FF7B0A?style=for-the-badge&logo=jupyter&logoColor=FFEDFB)
