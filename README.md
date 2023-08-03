@@ -1,4 +1,4 @@
-## Data engineer/Python devepoer
+## Python Data Engineer
 ## Graduate KAI IKTZI
 
 ### Languages and tools
